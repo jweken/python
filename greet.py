@@ -1,5 +1,5 @@
 """ 
-Tkis document is in module greet 
+This document is in module greet. 
 If the greeting says otherwise, it is a lie.
 """
 

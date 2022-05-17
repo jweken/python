@@ -1,3 +1,7 @@
-from unicodethings import test
+from unicodethings import *
+import unicodethings
 
-test()
+# test()
+# FileOpen('tmp/input.txt')
+unicodethings.test()
+unicodethings.FileOpen('tmp/input.txt')

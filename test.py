@@ -1,7 +1,7 @@
 from unicodethings import *
 import unicodethings
+import lib.xxx
 
-# test()
-# FileOpen('tmp/input.txt')
 unicodethings.test()
 unicodethings.FileOpen('tmp/input.txt')
+lib.xxx.NameShow()

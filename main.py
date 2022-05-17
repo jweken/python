@@ -11,3 +11,8 @@ print(type(greet))
 print(type(greet.Greeting()))
 print(type(element[2]))
 
+squares = []
+for x in range(100):
+    squares.append(x*x)
+
+print(squares)

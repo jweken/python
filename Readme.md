@@ -6,4 +6,4 @@ This workspace is used for experimenting with python.  Python is built on cpytho
 ## Todo
 
 - A lot of things.  
-  I have no idea where to start,
+  [Getting Started with Python in VS Code](<https://code.visualstudio.com/docs/python/python-tutorial>)

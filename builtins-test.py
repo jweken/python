@@ -4,11 +4,11 @@ import builtins
 
 
 def FileOpen(path=None):
-    fd = builtins.open('tuple-things.py', 'r')
+    fd = builtins.open('lib/tuplethings.py', 'r')
     content = fd.readlines()
 
-    for x in content:
-        print(x, end='')
+    for line in content:
+        print(line, end='')
 
 
 if __name__ == '__main__':

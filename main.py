@@ -1,4 +1,4 @@
-import greet
+import lib.tuplethings as greet
 import usererrors as error
 
 greet

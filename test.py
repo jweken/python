@@ -1,7 +1,7 @@
-from unicodethings import *
-import unicodethings
-import lib.xxx
+from lib.unicodethings import *
+import lib.unicodethings as unicodethings
+import lib.xxx as xxx
 
 unicodethings.test()
 unicodethings.FileOpen('tmp/input.txt')
-lib.xxx.NameShow()
+xxx.NameShow()

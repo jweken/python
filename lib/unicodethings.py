@@ -19,21 +19,17 @@ def FileOpen(filename=None):
             x = handle.read()
             handle.close()
             print(x)
-
-    except OSError:
-        # 'File not found' error message.
-        print("OSError: File  not found")
-
+        print('Contents of', filename)
     except TypeError:
         # theown if argument = None
         print('TypeError: No filename present.')
+        print(filename)
 
     SlashJines(3)
 
 
 def test():
     FileOpen()
-    FileOpen('pain.py')
     FileOpen('main.py')
 
 

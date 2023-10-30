@@ -15,6 +15,10 @@ def TupleSample():
     return (x, y, z)
 
 
+def Greeting():
+    print('Found Greeting() in ', __file__)
+
+
 if __name__ == '__main__':
     print('\nResult of TupleSample()')
     print(TupleSample(), type(TupleSample()))

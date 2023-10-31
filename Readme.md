@@ -7,3 +7,4 @@ This workspace is used for experimenting with python.  Python is built on cpytho
 
 - A lot of things.  
   [Getting Started with Python in VS Code](<https://code.visualstudio.com/docs/python/python-tutorial>)
+- Create a directory for [Notebooks](<Notebooks/Readme.ipynb>)

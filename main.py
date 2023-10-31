@@ -21,3 +21,6 @@ def SquareBlock(num=None):
 
 
 SquareBlock(100)
+
+if __name__ == '__main__':
+    SquareBlock(20)
